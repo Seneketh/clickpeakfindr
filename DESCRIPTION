@@ -1,0 +1,23 @@
+Package: clickpeakfindr
+Title: Automatically Detect and Analyse Ultrasound Clicks
+Version: 0.0.0.9000
+Authors@R: person("Marco", "Wirthlin", "marco.wirthlin@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    cli,
+    forecast,
+    fs,
+    ggdark,
+    glue,
+    hrbrthemes,
+    lubridate,
+    outliers,
+    scales,
+    seewave,
+    tuneR,
+    viridis
