@@ -49,4 +49,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-
+.wav
+*.wav

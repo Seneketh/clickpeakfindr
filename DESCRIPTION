@@ -1,7 +1,11 @@
 Package: clickpeakfindr
 Title: Automatically Detect and Analyse Ultrasound Clicks
 Version: 0.0.0.9000
-Authors@R: person("Marco", "Wirthlin", "marco.wirthlin@gmail.com", role = c("aut", "cre"))
+Authors@R: 
+  c(person(given = "Marco",
+           family = "Wirthlin",
+           role = c("aut", "cre"),
+           email = "marco.wirthlin@gmail.com"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
